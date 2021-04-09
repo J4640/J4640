@@ -1,1 +1,1 @@
-Worker: node ./commands/clear.js
+Worker: node ./src/main.js
